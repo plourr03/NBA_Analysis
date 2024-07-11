@@ -1,4 +1,4 @@
-# NBA Sports Betting AI
+# NBA_Analysis
 
 ## Shooting Prop 
 
