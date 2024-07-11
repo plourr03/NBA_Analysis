@@ -1,0 +1,7 @@
+,PLAYER_NAME,OPP,PTS,player_slug,PLAYER,NICKNAME,PLAYER_SLUG,PLAYER_ID,model_guess_over,model__guess_proba_over,model_score_over,model_guess_under,model__guess_proba_under,model_score_under,data_used,model_type
+0,Pascal Siakam,NYK,21.5,pascal-siakam,Pascal Siakam,Pascal,pascal-siakam,1627783,1,1.0,0.2682926829268293,1,0.7333333333333333,0.717391304347826,season,Decision Tree
+2,Aaron Nesmith,NYK,14.5,aaron-nesmith,Aaron Nesmith,Aaron,aaron-nesmith,1630174,1,1.0,0.08333333333333333,1,0.7905234600836808,0.7195121951219512,buffer,SVM
+4,Jalen Brunson,IND,32.5,jalen-brunson,Jalen Brunson,Jalen,jalen-brunson,1628973,1,1.0,0.11666666666666667,1,0.8160478205495232,0.8170731707317073,buffer,SVM
+5,Donte DiVincenzo,IND,18.5,donte-divincenzo,Donte DiVincenzo,Donte,donte-divincenzo,1628978,0,0.0,0.044444444444444446,1,1.0,0.9024390243902439,buffer,Bayesian
+6,Josh Hart,IND,11.5,josh-hart,Josh Hart,Josh,josh-hart,1628404,0,0.0,0.06382978723404255,1,0.6482441020874564,0.6595744680851063,season,SVM
+7,Isaiah HartenStein,IND,9.5,isaiah-hartenstein,Isaiah Hartenstein,Isaiah,isaiah-hartenstein,1628392,0,0.0,0.08695652173913043,0,0.6686380238553916,0.7439024390243902,buffer,SVM
